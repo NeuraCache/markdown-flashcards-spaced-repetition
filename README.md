@@ -1,18 +1,17 @@
 
 ## Goal
 
-The goal of this repository is to standardize the creation of Flashcards and cards for Spaced Repetition in Markdown files.
+This repository aims to standardize the creation of Flashcards and cards for Spaced Repetition in Markdown files.
 
-Use Cases: 
+**Use Cases:**
 
-- Creating easily portable decks of flashcards and cards for spaced repetition.
-- Ability to include flashcards and spaced repetition cards in various places in notes (in tools like Obsidian)
-- Non intrusive flashcards in GitHub README.md files of various projects to facilitate the retention of key concepts.
-- Clients can easily consume .md files and show cards with UI interface.
+- Create Portable decks of flashcards and cards for spaced repetition.
+- Include flashcards and spaced repetition cards in notes (in tools like [Obsidian](https://obsidian.md/))
+- Non intrusive flashcards in GitHub README.md files to facilitate the retention of key concepts.
 
 **Quick Example:**
 
-How many are bitten by snakes each year? : 5.3M 🧠
+How many people are bitten by snakes each year? : 5.3M 🧠
 
 How many people die each year from snake bites? : ~130k 🧠
 
@@ -21,9 +20,9 @@ Review in [NeuraCache](https://neuracache.com/)
 ![](images/neuracache-example.gif "Example Review in NeuraCache")
 
 
-## One Line Cards
+## One-Line Cards
 
-### One Line Flashcards
+### One-Line Flashcards
 
 question : answer #flashcard #optionaltag1 #optionaltag2
 
@@ -31,7 +30,7 @@ question : answer #flashcard #optionaltag1 #optionaltag2
 
 ⌥⏎ : follow link #flashcard #intellij #shortkeys
 
-### Batch import of One Line Flashcards
+### Batch import of One-Line Flashcards
 
 #flashcard #optionaltag1 #optionaltag2 
 - question 1 : answer 1
@@ -44,7 +43,7 @@ question : answer #flashcard #optionaltag1 #optionaltag2
 - **⌥o**: quick switcher
 - **⌥⌘⏎**: open in new pane
 
-### One Line Spaced Repetition
+### One-Line Spaced Repetition
 
 content #spaced #optionaltag1 #optionaltag2
 
@@ -52,7 +51,7 @@ content #spaced #optionaltag1 #optionaltag2
 
 "We are what we repeadetly do" #spaced
 
-### Batch import of One Line Spaced Repetition
+### Batch import of One-Line Spaced Repetition
 
 #spaced #optionaltag1 #optionaltag2 
 - content 1
@@ -66,7 +65,7 @@ content #spaced #optionaltag1 #optionaltag2
 
 ## Micro Cards
 
-Same as "One Line Flashcards" but instead of a #flashcard you can use ⚡️ or 🧠
+Same as "One-Line Flashcards" but instead of a #flashcard you can use ⚡️ or 🧠
 This is great for Github README.md files where a #flashcard could look strange.
 
 **Example:**

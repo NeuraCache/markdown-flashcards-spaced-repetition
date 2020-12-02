@@ -18,7 +18,7 @@ How many people die each year from snake bites? : ~130k 🧠
 
 Review in [NeuraCache](https://neuracache.com/)
 
-![](https://github.com/NeuraCache/flashcards/raw/master/images/neuracache-example.gif "Example Review in NeuraCache")
+![](images/neuracache-example.gif "Example Review in NeuraCache")
 
 
 ## One Line Cards

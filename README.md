@@ -1,5 +1,5 @@
 
-## Why?
+## Goal
 
 The goal of this repository is to standardize the creation of Flashcards and cards for Spaced Repetition in Markdown files.
 
@@ -10,13 +10,16 @@ Use Cases:
 - Non intrusive flashcards in GitHub README.md files of various projects to facilitate the retention of key concepts.
 - Clients can easily consume .md files and show cards with UI interface.
 
-Quick Example:
+**Quick Example:**
 
-Memorizing Keyboard shortkeys: 
+How many are bitten by snakes each year? : 5.3M 🧠
 
-TODO: add md file with cards
+How many people die each year from snake bites? : ~130k 🧠
 
-TODO: add gif from neuracache
+Review in [NeuraCache](https://neuracache.com/)
+
+![](https://github.com/NeuraCache/flashcards/raw/master/images/neuracache-example.gif "Example Review in NeuraCache")
+
 
 ## One Line Cards
 
@@ -24,7 +27,7 @@ TODO: add gif from neuracache
 
 question : answer #flashcard #optionaltag1 #optionaltag2
 
-Example:
+**Example:**
 
 ⌥⏎ : follow link #flashcard #intellij #shortkeys
 
@@ -34,7 +37,7 @@ Example:
 - question 1 : answer 1
 - question 2 : answer 2
 
-Example:
+**Example:**
 
 #flashcard #intellij #shortkeys
 - **⌥⏎**: follow link
@@ -45,7 +48,7 @@ Example:
 
 content #spaced #optionaltag1 #optionaltag2
 
-Example:
+**Example:**
 
 "We are what we repeadetly do" #spaced
 
@@ -55,7 +58,7 @@ Example:
 - content 1
 - content 2
 
-Example:
+**Example:**
 
 #spaced #quotes
 - "We are what we repeadetly do" Will Durant
@@ -66,13 +69,13 @@ Example:
 Same as "One Line Flashcards" but instead of a #flashcard you can use ⚡️ or 🧠
 This is great for Github README.md files where a #flashcard could look strange.
 
-Example:
+**Example:**
 
 **⌥⏎**: follow link ⚡️
 
-## Complex Cards
+## Regular Cards
 
-Complex blocks allow creating cards with images, latex, lists, etc.
+Regular cards allow creating cards with images, latex, lists, etc.
 
 A horizontal rule is used to mark the end of the card.
 
@@ -80,14 +83,14 @@ You can use:
 
 \-\-\-, \- \- \-, \*\*\*, \* \* \*
 
-### Complex Flashcards
+### Regular Flashcards
 question #flashcard #optionaltag1 #optionaltag2 
 
 answer
 
 \-\-\-
 
-Example:
+**Example:**
 
 Radii of stable orbits in the Bohr model #flashcard 
 
@@ -99,7 +102,7 @@ $c = \lambda \nu$
 
 \-\-\-
 
-### Complex Spaced Repetition
+### Regular Spaced Repetition
 
 #spaced #optionaltag1 #optionaltag2 
 
@@ -107,7 +110,7 @@ content
 
 \-\-\-
 
-Example:
+**Example:**
 
 #spaced #quotes
 

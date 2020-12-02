@@ -18,8 +18,6 @@ TODO: add md file with cards
 
 TODO: add gif from neuracache
 
----
-
 ## One Line Cards
 
 ### One Line Flashcards
@@ -63,8 +61,6 @@ Example:
 - "We are what we repeadetly do" Will Durant
 - “Be yourself; everyone else is already taken.” Oscar Wilde
 
----
-
 ## Micro Cards
 
 Same as "One Line Flashcards" but instead of a #flashcard you can use ⚡️ or 🧠
@@ -74,13 +70,15 @@ Example:
 
 **⌥⏎**: follow link ⚡️
 
----
-
 ## Complex Cards
 
 Complex blocks allow creating cards with images, latex, lists, etc.
+
 A horizontal rule is used to mark the end of the card.
-You can use: \-\-\-, \- \- \-, \*\*\*, \* \* \*
+
+You can use: 
+
+\-\-\-, \- \- \-, \*\*\*, \* \* \*
 
 ### Complex Flashcards
 question #flashcard #optionaltag1 #optionaltag2 

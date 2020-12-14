@@ -1,24 +1,37 @@
 
-## Goal
+# Goal
 
 This repository aims to standardize the creation of Flashcards and cards for Spaced Repetition in Markdown files.
 
-**Use Cases:**
+## Use Cases
 
 - Create Portable decks of flashcards and cards for spaced repetition.
 - Include flashcards and spaced repetition cards in notes (in tools like [Obsidian](https://obsidian.md/))
 - Non intrusive flashcards in GitHub README.md files to facilitate the retention of key concepts.
 
-**Quick Example:**
+## Quick Example
 
-How many people are bitten by snakes each year? : 5.3M 🧠
+How many people are bitten by snakes each year? : 5.3M ⚡️
 
-How many people die each year from snake bites? : ~130k 🧠
+How many people die each year from snake bites? : ~130k ⚡️
 
-Review in [NeuraCache](https://neuracache.com/)
+Example Review of 👆 cards in [NeuraCache](https://neuracache.com/)
 
 ![](images/neuracache-example.gif "Example Review in NeuraCache")
 
+## NeuraCache Support
+
+| Type  | Supported |
+| ------------- | ------------- |
+| One-Line Flashcards  | ✅ |
+| Batch import of One-Line Flashcards | - |
+| One-Line Spaced Repetition  | ✅ |
+| Batch import of One-Line Spaced Repetition | - |
+| Micro-Cards | ✅ |
+| Regular Flashcards | ✅ |
+| Regular Spaced Repetition | ✅ |
+
+# Specification
 
 ## One-Line Cards
 

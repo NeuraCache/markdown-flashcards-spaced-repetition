@@ -15,7 +15,7 @@ How many people are bitten by snakes each year? : 5.3M ⚡️
 
 How many people die each year from snake bites? : ~130k ⚡️
 
-Example Review of 👆 cards in [NeuraCache](https://neuracache.com/)
+See gif below for an example review of 👆 cards in [NeuraCache](https://neuracache.com/)
 
 ![](images/neuracache-example.gif "Example Review in NeuraCache")
 
@@ -30,6 +30,14 @@ Example Review of 👆 cards in [NeuraCache](https://neuracache.com/)
 | Micro-Cards | ✅ |
 | Regular Flashcards | ✅ |
 | Regular Spaced Repetition | ✅ |
+
+## Full Example
+
+See this .md file, which is ready to use with NeuraCache.
+
+[example_note.md](example_note.md)
+
+It contains all types of supported cards.
 
 # Specification
 

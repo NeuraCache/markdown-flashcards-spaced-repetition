@@ -140,3 +140,6 @@ content
 
 \-\-\-
 
+Credits: 
+[Reto Stamm](https://github.com/retospect) for starting the conversation and initial concept 👍
+

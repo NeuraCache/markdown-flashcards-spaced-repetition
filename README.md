@@ -21,6 +21,16 @@ See gif below for an example review of 👆 cards in [NeuraCache](https://neurac
 
 ## NeuraCache Support
 
+🎥  Videos: 
+
+One-Line and Micro Cards
+
+https://www.youtube.com/watch?v=6L3Zcm7HqDw
+
+Regular Cards
+
+https://www.youtube.com/watch?v=RsV3qMUkgoA
+
 | Type  | Supported |
 | ------------- | ------------- |
 | One-Line Flashcards  | ✅ |

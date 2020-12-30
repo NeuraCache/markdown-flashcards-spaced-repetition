@@ -151,5 +151,8 @@ content
 \-\-\-
 
 Credits: 
-[Reto Stamm](https://github.com/retospect) for starting the conversation and initial concept 👍
+
+[Marcin Czech](https://twitter.com/marcin_czech) Regular Cards
+
+[Reto Stamm](https://github.com/retospect) Initial concept of One-Line and Micro Cards
 

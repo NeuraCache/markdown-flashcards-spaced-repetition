@@ -33,7 +33,7 @@ See gif below for an example review of 👆 cards in [NeuraCache](https://neurac
 
 Full documentation with examples: 
 
-https://wiki.neuracache.com/markdown-flashcards
+https://neuracache.com/markdown-flashcards
 
 🎥  Videos: 
 
@@ -187,4 +187,4 @@ Credits:
 
 Full documentation with examples: 
 
-https://wiki.neuracache.com/markdown-flashcards
+https://neuracache.com/markdown-flashcards

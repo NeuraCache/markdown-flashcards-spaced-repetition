@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="t d">
+  <title id="t">Markdown Flashcards</title>
+  <desc id="d">An open specification for flashcards and spaced repetition written in Markdown notes: a line in a note becomes a card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#170B2B"/>
+      <stop offset="0.55" stop-color="#24113F"/>
+      <stop offset="1" stop-color="#160F33"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.12" cy="0.05" r="0.75">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.95" cy="1" r="0.7">
+      <stop offset="0" stop-color="#EC4899" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#C026D3"/>
+    </linearGradient>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FDBA4D"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="brand" gradientUnits="userSpaceOnUse" x1="104" y1="0" x2="104" y2="219">
+      <stop offset="0" stop-color="#FE9CFF"/>
+      <stop offset="1" stop-color="#8B3DFF"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E4CCFF"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="100%" height="100%" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="480" fill="url(#bg)"/>
+    <rect width="1200" height="480" fill="url(#glowA)"/>
+    <rect width="1200" height="480" fill="url(#glowB)"/>
+    <rect x="70" y="84" width="54" height="54" rx="14" fill="url(#accent)"/>
+    <text x="97" y="122" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#FFFFFF">#</text>
+    <text x="142" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#C38FFF">OPEN SPECIFICATION</text>
+    <text x="142" y="133" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#9D96B3">one way to write cards, for any app</text>
+    <text x="68" y="246" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-1.4" fill="url(#title)">Markdown</text>
+    <text x="68" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-1.4" fill="url(#title)">Flashcards</text>
+    <text x="70" y="366" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="20" fill="#D9D4E6">Flashcards and spaced repetition,</text>
+    <text x="70" y="394" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="20" fill="#D9D4E6">written in the notes you already keep.</text>
+    <rect x="70.0" y="418" width="90.8" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="115.4" y="438" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#D9D4E6">Obsidian</text>
+    <rect x="170.8" y="418" width="74.6" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="208.1" y="438" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#D9D4E6">Logseq</text>
+    <rect x="255.4" y="418" width="58.4" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="284.6" y="438" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#D9D4E6">Bear</text>
+    <rect x="323.8" y="418" width="74.6" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="361.1" y="438" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#D9D4E6">GitHub</text>
+    <rect x="408.4" y="418" width="123.2" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="470.0" y="438" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#D9D4E6">any .md file</text>
+    <rect x="640" y="44" width="516" height="162" rx="16" fill="#0E0818" fill-opacity="0.82" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <path d="M640 84H1156" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <circle cx="664" cy="64" r="5" fill="#FF5F57" fill-opacity="0.85"/>
+    <circle cx="682" cy="64" r="5" fill="#FEBC2E" fill-opacity="0.85"/>
+    <circle cx="700" cy="64" r="5" fill="#28C840" fill-opacity="0.85"/>
+    <text x="898.0" y="69" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#9D96B3">notes.md</text>
+    <text x="664" y="118" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#D9D4E6">Capital of Peru </tspan><tspan fill="#F59E0B" font-weight="700">:: </tspan><tspan fill="#D9D4E6">Lima </tspan><tspan fill="#E9B8FF" font-weight="700">#flashcard</tspan></text>
+    <text x="664" y="145" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#D9D4E6">Largest desert </tspan><tspan fill="#F59E0B" font-weight="700">:: </tspan><tspan fill="#D9D4E6">Antarctica </tspan><tspan fill="#F59E0B">⚡️</tspan></text>
+    <text x="664" y="172" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#D9D4E6">"Small steps, every day." </tspan><tspan fill="#E9B8FF" font-weight="700">#spaced</tspan></text>
+    <g transform="rotate(90 898 228)">
+      <circle cx="898" cy="228" r="21" fill="url(#accent)"/>
+      <path d="M890 228H905M900 222L906 228L900 234" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <rect x="640" y="252" width="516" height="190" rx="22" fill="#17101F" fill-opacity="0.92" stroke="#FFFFFF" stroke-opacity="0.11"/>
+    <text x="666" y="289" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.6" fill="#9D96B3">FLASHCARD</text>
+    <rect x="1084.4" y="272" width="47.6" height="24" rx="12" fill="#7C3AED" fill-opacity="0.26"/>
+    <text x="1108.2" y="288.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#C38FFF">#geo</text>
+    <text x="666" y="336" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="650" fill="#FFFFFF">Capital of Peru</text>
+    <path d="M666 360H1130" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="666" y="392" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#D9D4E6">Lima</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="479" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>

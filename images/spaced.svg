@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-labelledby="t d">
+  <title id="t">Spaced repetition cards</title>
+  <desc id="d">A block that starts with #spaced and ends with a horizontal rule becomes a card with one side, shown again at growing intervals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#170B2B"/>
+      <stop offset="0.55" stop-color="#24113F"/>
+      <stop offset="1" stop-color="#160F33"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.12" cy="0.05" r="0.75">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.95" cy="1" r="0.7">
+      <stop offset="0" stop-color="#EC4899" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#C026D3"/>
+    </linearGradient>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FDBA4D"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="brand" gradientUnits="userSpaceOnUse" x1="104" y1="0" x2="104" y2="219">
+      <stop offset="0" stop-color="#FE9CFF"/>
+      <stop offset="1" stop-color="#8B3DFF"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E4CCFF"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="100%" height="100%" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="470" fill="url(#bg)"/>
+    <rect width="1200" height="470" fill="url(#glowA)"/>
+    <rect width="1200" height="470" fill="url(#glowB)"/>
+    <text x="48" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.8" fill="#9D96B3">YOUR MARKDOWN NOTE</text>
+    <g transform="translate(644 46) scale(0.1553)" fill="url(#brand)"><path fill-rule="evenodd" d="M104.15,20.09m-19.36,0a19.36,19.36 0,1 1,38.72 0a19.36,19.36 0,1 1,-38.72 0"/><path fill-rule="evenodd" d="M104.15,198.91m-19.36,0a19.36,19.36 0,1 1,38.72 0a19.36,19.36 0,1 1,-38.72 0"/><path fill-rule="evenodd" d="M189.78,123.99L189.78,95.01C189.78,91.77 191.55,88.82 194.37,87.21C202.47,82.59 207.82,73.71 207.37,63.62C206.79,50.58 196.27,39.84 183.24,39.03C168.24,38.1 155.78,49.99 155.78,64.79C155.78,74.38 161.01,82.75 168.78,87.19C171.6,88.81 173.39,91.75 173.39,95L173.39,123.97C173.39,127.24 171.57,130.18 168.74,131.81C167.22,132.68 165.8,133.71 164.5,134.86L141.03,121.31C142.63,116.33 143.25,110.91 142.65,105.27C140.69,86.96 125.72,72.38 107.36,70.9C94.72,69.89 83.23,74.94 75.49,83.47L56.99,72.79C54.16,71.15 52.53,68.1 52.54,64.83C52.54,63.52 52.45,62.19 52.25,60.85C50.53,49.35 41.05,40.31 29.49,39.12C14,37.52 0.93,49.63 0.93,64.79C0.93,74.38 6.16,82.75 13.93,87.19C16.75,88.81 18.54,91.75 18.54,95L18.54,123.98C18.54,127.22 16.77,130.17 13.95,131.78C5.85,136.4 0.5,145.28 0.95,155.37C1.53,168.41 12.05,179.15 25.08,179.96C40.08,180.89 52.54,169 52.54,154.2C52.54,144.61 47.31,136.24 39.54,131.8C36.72,130.18 34.93,127.24 34.93,123.99L34.93,95.02C34.93,91.75 36.75,88.81 39.58,87.18C39.61,87.16 39.64,87.15 39.67,87.13C42.5,85.49 45.97,85.37 48.81,87.01L67.3,97.68C65.7,102.67 65.08,108.08 65.68,113.72C67.64,132.03 82.62,146.61 100.97,148.08C113.61,149.09 125.1,144.04 132.84,135.51L151.33,146.19C154.16,147.83 155.79,150.88 155.79,154.15C155.79,155.46 155.88,156.79 156.09,158.14C157.82,169.64 167.31,178.68 178.88,179.86C194.36,181.45 207.41,169.34 207.41,154.19C207.41,144.6 202.18,136.23 194.41,131.79C191.57,130.18 189.78,127.24 189.78,123.99Z"/></g>
+    <text x="688" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-0.3" fill="#FFFFFF">NeuraCache</text>
+    <rect x="44" y="100" width="536" height="320" rx="16" fill="#0E0818" fill-opacity="0.82" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <path d="M44 140H580" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <circle cx="68" cy="120" r="5" fill="#FF5F57" fill-opacity="0.85"/>
+    <circle cx="86" cy="120" r="5" fill="#FEBC2E" fill-opacity="0.85"/>
+    <circle cx="104" cy="120" r="5" fill="#28C840" fill-opacity="0.85"/>
+    <text x="312.0" y="125" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#9D96B3">quotes.md</text>
+    <text x="68" y="174" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#E9B8FF" font-weight="700">#spaced</tspan><tspan fill="#A78BFA"> #quotes</tspan></text>
+    <text x="68" y="228" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#D9D4E6">"We are what we repeatedly do.</tspan></text>
+    <text x="68" y="255" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#D9D4E6">Excellence, then, is not an act,</tspan></text>
+    <text x="68" y="282" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#D9D4E6">but a habit."</tspan></text>
+    <text x="68" y="336" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" xml:space="preserve"><tspan fill="#8A82A6" font-weight="700">- - -</tspan></text>
+    <g>
+      <circle cx="610" cy="260.0" r="21" fill="url(#accent)"/>
+      <path d="M602 260.0H617M612 254.0L618 260.0L612 266.0" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <rect x="640" y="100" width="516" height="320" rx="22" fill="#17101F" fill-opacity="0.92" stroke="#FFFFFF" stroke-opacity="0.11"/>
+    <text x="666" y="137" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.6" fill="#9D96B3">SPACED REPETITION</text>
+    <rect x="1062.2" y="120" width="69.8" height="24" rx="12" fill="#7C3AED" fill-opacity="0.26"/>
+    <text x="1097.1" y="136.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#C38FFF">#quotes</text>
+    <text x="666" y="184" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" font-weight="650" fill="#FFFFFF">“We are what we repeatedly do.</text>
+    <text x="666" y="213" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" font-weight="650" fill="#FFFFFF">Excellence, then, is not an act,</text>
+    <text x="666" y="242" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" font-weight="650" fill="#FFFFFF">but a habit.”</text>
+    <rect x="664.0" y="358" width="109.5" height="40" rx="12" fill="#EF4444" fill-opacity="0.17" stroke="#EF4444" stroke-opacity="0.35"/>
+    <text x="718.8" y="383.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#FCA5A5">Again</text>
+    <rect x="783.5" y="358" width="109.5" height="40" rx="12" fill="#F59E0B" fill-opacity="0.17" stroke="#F59E0B" stroke-opacity="0.35"/>
+    <text x="838.2" y="383.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#FCD34D">Hard</text>
+    <rect x="903.0" y="358" width="109.5" height="40" rx="12" fill="#86B895" fill-opacity="0.17" stroke="#86B895" stroke-opacity="0.35"/>
+    <text x="957.8" y="383.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#B4DCC0">Good</text>
+    <rect x="1022.5" y="358" width="109.5" height="40" rx="12" fill="#10B981" fill-opacity="0.17" stroke="#10B981" stroke-opacity="0.35"/>
+    <text x="1077.2" y="383.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#6EE7B7">Easy</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="469" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>

@@ -1,0 +1,29 @@
+- An example outline for Logseq, with one of every outline card. Import it into NeuraCache to see the result.
+- A bullet with the flashcard tag is the question. The bullets under it are the answer.
+- What is spaced repetition? #flashcard #learning
+	- reviewing something just before you would forget it
+	- the gap grows after each review
+		- a day, a few days, a few weeks
+- This bullet is back at the top level, so it is not part of the card above.
+- A one-line card works as a bullet too:
+- Who described the forgetting curve? :: Hermann Ebbinghaus #flashcard #learning
+- With the spaced tag, the bullet and everything under it is one card:
+- Three habits that help memory #spaced #learning
+	- test yourself instead of reading again
+	- spread the reviews out
+	- sleep
+- A task list with one item ticked makes a multiple-choice card:
+- Which of these is an outliner? #flashcard #tools
+	- [ ] Vim
+	- [x] Logseq
+	- [ ] Git
+	- [ ] Bash
+- A bullet with only the tag turns each bullet under it into a card:
+- #flashcard #biology
+	- What is the powerhouse of the cell?
+		- the mitochondrion
+	- Where is DNA kept?
+		- in the nucleus
+	- What carries oxygen in the blood?
+		- haemoglobin, inside red blood cells
+- The batch ends here, where the outline steps back out.
